@@ -6,8 +6,10 @@
 # $Id$
 #
 # $Log$
-# Revision 1.1  2002/06/03 11:48:39  stas
-# Initial revision
+# Revision 1.1.1.1  2002/06/03 11:48:39  stas
+# First release.
+# Fidoconfig parsing implement (include not supported).
+# Log support.
 #
 #
 #
@@ -28,8 +30,10 @@ HELP
 #-----------------------------------------------------------------------------#
 #
 # $Log$
-# Revision 1.1  2002/06/03 11:48:39  stas
-# Initial revision
+# Revision 1.1.1.1  2002/06/03 11:48:39  stas
+# First release.
+# Fidoconfig parsing implement (include not supported).
+# Log support.
 #
 # Revision 1.5  2002/06/02 14:20:30  User
 # First release.
