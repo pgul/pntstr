@@ -1,4 +1,4 @@
-#/usr/bin/perl
+#!/usr/bin/perl
 
 # Point string processor
 # (c) Stas Degteff 2:5080/102
@@ -24,6 +24,9 @@ HELP
 #-----------------------------------------------------------------------------#
 #
 # $Log$
+# Revision 1.3  2002/10/28 08:25:50  stas_degteff
+# Fix shebang
+#
 # Revision 1.2  2002/06/04 11:37:05  stas
 # Some bugs fixed.
 #
